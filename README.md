@@ -1,5 +1,9 @@
 ## 💫 About Me:
-I'm Utkarsh, a dedicated theoretical physics student at CITA (Canadian Institute for Theoretical Astrophysics). As a member of the LIGO scientific collaboration, I have a strong interest in gravitational wave physics and computational methods. Additionally, I am passionate about science outreach and education. Originally from Singapore, I enjoy board games, ultimate frisbee, and staying active in my free time.
+I'm Utkarsh, a dedicated theoretical physics student at CITA (Canadian Institute for Theoretical Astrophysics). 
+I have a strong interest in gravitational wave physics and it's computational methods.
+I am also a member of the LIGO Scientific Collaboration.
+Additionally, I am passionate about science outreach and education.
+Originally from Singapore, I enjoy board games, ultimate frisbee, and staying active in my free time.
 
 
 ## 💻 Tech Stack:
