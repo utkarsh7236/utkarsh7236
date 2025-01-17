@@ -16,5 +16,5 @@ Originally from Singapore, I enjoy board games, ultimate frisbee, and staying ac
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh7236&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&#41;)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utkarsh7236&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=utkarsh7236&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
